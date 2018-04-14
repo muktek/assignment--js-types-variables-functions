@@ -16,7 +16,7 @@ cd js-types-variables-functions
 # (2) Download the assignment-files with curl from the assignment repo and unzip
 curl https://raw.githubusercontent.com/muktek/assignment--js-types-variables-functions/master/assignment-files.zip > assignment-files.zip
 
-unzip assignment-files
+unzip assignment-files.zip
 ```
 
 ### Instructions
