@@ -8,7 +8,7 @@ Write functions for each `ex-«XX».js` exercise question so that the `console.a
 ### Setup
 ```sh
 # (1) Go to your  muktek/assignments directory and create the `js-types-variables-functions` folder for this assignment
-cd ~/Documents/muktek/assignments
+cd ~/muktek/assignments
 mkdir js-types-variables-functions
 cd js-types-variables-functions
 
