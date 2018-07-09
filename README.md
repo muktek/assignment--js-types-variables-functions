@@ -1,4 +1,4 @@
-# JS Types, Variables, Functions
+# JS Iteration Basics
 
 ## The Assignment
 
@@ -7,8 +7,8 @@ Write functions for each `ex-«XX».js` exercise question so that the `console.a
 
 ### Setup
 ```sh
-# (1) Go to your  muktek/assignments directory and create the `js-types-variables-functions` folder for this assignment
-cd ~/muktek/assignments
+# (1) Go to your  muktek/assignments directory and create the `js-iteration-basics` folder for this assignment
+cd ~/Documents/muktek/assignments
 mkdir js-types-variables-functions
 cd js-types-variables-functions
 
@@ -16,7 +16,7 @@ cd js-types-variables-functions
 # (2) Download the assignment-files with curl from the assignment repo and unzip
 curl https://raw.githubusercontent.com/muktek/assignment--js-types-variables-functions/master/assignment-files.zip > assignment-files.zip
 
-unzip assignment-files.zip
+unzip assignment-files
 ```
 
 ### Instructions
