@@ -1,4 +1,4 @@
-# JS Iteration Basics
+# JS Basics - Types, Variables, Functions
 
 ## The Assignment
 
