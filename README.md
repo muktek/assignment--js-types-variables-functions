@@ -7,13 +7,13 @@ Write functions for each `ex-«XX».js` exercise question so that the `console.a
 
 ### Setup
 ```sh
-# (1) Go to your  muktek/assignments directory and create the `js-iteration-basics` folder for this assignment
+# (1) Go to your  muktek/assignments directory and create the folder for this assignment
 cd ~/muktek/assignments
-mkdir assignment--js-iteration-basics
-cd assignment--js-iteration-basics
+mkdir assignment--js-types-variables-functions
+cd assignment--js-types-variables-functions
 
 
-# (2) Download the assignment-files with curl from the assignment repo and unzip
+# (2) Download the assignment zip file with curl from the assignment repo and unzip
 curl https://raw.githubusercontent.com/muktek/assignment--js-types-variables-functions/master/assignment-files.zip > assignment-files.zip
 
 unzip assignment-files
