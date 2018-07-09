@@ -9,8 +9,8 @@ Write functions for each `ex-«XX».js` exercise question so that the `console.a
 ```sh
 # (1) Go to your  muktek/assignments directory and create the `js-iteration-basics` folder for this assignment
 cd ~/muktek/assignments
-mkdir js-types-variables-functions
-cd js-types-variables-functions
+mkdir assignment--js-iteration-basics
+cd assignment--js-iteration-basics
 
 
 # (2) Download the assignment-files with curl from the assignment repo and unzip
