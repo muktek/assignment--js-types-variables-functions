@@ -10,15 +10,16 @@
  **/
 
 
-function justOneString(arg1, arg2){
-  if(typeof arg1 === 'string' && typeof arg2 === 'string' ){
-    return false
-  } else if (typeof arg1 === 'string' || typeof arg2 === 'string'  ) {
-    return true
-  } else {
-    return false
-  }
-}
+
+
+
+
+
+
+
+
+
+
 
 
 

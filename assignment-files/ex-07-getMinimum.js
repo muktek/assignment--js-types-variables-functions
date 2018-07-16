@@ -6,19 +6,14 @@
  *
  **/
 
-function getMinimum(num1, num2, num3, num4){
-  var minVal
-  if (num1 < num2 && num1 < num3 && num1 < num4){
-    minVal = num1
-  } else if (num2 < num3 && num2 < num4){
-    minVal = num2
-  } else if (num3 < num4){
-    minVal = num3
-  } else {
-    minVal = num4
-  }
-  return minVal
-}
+
+
+
+
+
+
+
+
 
 
 // *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*

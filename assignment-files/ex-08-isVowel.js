@@ -7,21 +7,14 @@
  **/
 
 
- function isVowel(char){
-  var charNormalized = char.toLowerCase()
-  if(
-    charNormalized === 'a' ||
-    charNormalized ==='e' ||
-    charNormalized === 'i' ||
-    charNormalized === 'o' ||
-    charNormalized === 'u' ||
-    charNormalized === 'y'
-  ){
-    return true
-  } else {
-    return false
-  }
- }
+
+
+
+
+
+
+
+
 
 
 
@@ -40,8 +33,6 @@ console.assert(isVowel('e') === true);
 console.assert(isVowel('i') === true);
 console.assert(isVowel('o') === true);
 console.assert(isVowel('u') === true);
-console.assert(isVowel('y') === true);
- //(of course, 'y' is a vowel!!)
 
 /*-------------------TEST-2-------------------------*/
 // function receives string input

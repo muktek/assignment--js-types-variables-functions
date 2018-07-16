@@ -34,27 +34,19 @@
  *
  **/
 
-function calcSpeedTicket(speedLimit, userSpeed, protectedArea){
-  var fineVal = 0;
-  var speedDifference = 20
 
-  if(userSpeed <= speedLimit) {
-    return fineVal
-  }
 
-  if(userSpeed < speedLimit + speedDifference){
-    fineVal = 150
-  } else {
-    fineVal = 250
-  }
 
-  if(protectedArea === true){
-    fineVal = fineVal * 2
-  }
 
-  return fineVal
 
-}
+
+
+
+
+
+
+
+
 
 
 //*-*~*~*~*~*~ Don't Touch *~*~*~*~*~*~*~*
